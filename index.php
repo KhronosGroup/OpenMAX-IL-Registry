@@ -1,17 +1,8 @@
 <?php
 $static_title = 'Khronos OpenMAX IL Registry';
-$static_breadcrumb = array(
-    '/registry/' => 'Registry',
-    'NOLINK' => 'OpenMAX IL Registry'
-);
+
 include_once("../../assets/static_pages/khr_page_top.php");
 ?>
-
-<h1 class="pagetitle">Khronos OpenMAX&trade; IL Registry</h1>
-<div id="mainformat">
-
-
-<h1 style="text-align:center"> Khronos OpenMAX&trade; IL Registry </h1>
 
 <p> The OpenMAX IL registry contains specifications of the core API;
     specifications of Khronos- and vendor-approved OpenMAX IL
