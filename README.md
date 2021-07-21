@@ -4,8 +4,11 @@ The OpenMAX-IL-Registry repository contains the OpenMAX IL API and Extension
 Registry, including specifications.
 
 It is also used as a backing store for the web view of the registry at
-https://www.khronos.org/registry/omxil/ ; commits to the master branch of
+https://www.khronos.org/registry/omxil/ ; commits to the main branch of
 this repository will be reflected there.
+
+**NOTE**: as of 2021-07-21, the default branch of this repository has
+been renamed from 'master' to 'main'.
 
 In the past, the OpenMAX IL registry was maintained in a public Subversion
 repository. The history in that repository has not been imported to github,
