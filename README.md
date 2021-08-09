@@ -29,7 +29,7 @@ Interesting files in this repository include:
 ## Adding Extension Specifications
 
 Extension specification documents can be added by proposing a pull request
-to master, adding the specification PDF (and related source markup, if
+adding the specification PDF (and related source markup, if
 available) files under extensions/<vendor>/ . You must also:
 
 * Allocate an extension number in registry.tcl (follow the existing
